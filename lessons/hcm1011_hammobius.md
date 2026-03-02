@@ -1,5 +1,5 @@
-## Bài 2: Hàm Mobius
-
+## 📈 Bài 2: Hàm Mobius 
+<br>
 <div class="step-card border-blue">
 <div class="step-badge bg-blue">Phân tích đề bài</div>
 
@@ -14,6 +14,10 @@
     * Ví dụ 2 ($n=34$): Phân tích $34 = 2 \times 17$. Có $p=2$ ước nguyên tố phân biệt. Vậy $M(34) = (-1)^2 = 1$.
     * Ví dụ 3 ($n=45$): Phân tích $45 = 3 \times 3 \times 5 = 3^2 \times 5$. Vì ước nguyên tố $3$ xuất hiện $2$ lần (mũ của $3$ là $2 > 1$) nên $M(45) = 0$.
 
+<div class="important-note">
+
+**📌 Dạng bài:** Addhoc - phân tích thừa số nguyên tố
+</div>
 </div>
 
 <div class="step-card border-orange">

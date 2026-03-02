@@ -1,11 +1,16 @@
-## Bài: Làm Vườn (Giao 3 Hình Chữ Nhật)
-
+## 🌳 Bài: Làm Vườn (Giao 3 Hình Chữ Nhật) 
+<br>
 <div class="step-card border-blue">
 <div class="step-badge bg-blue">Phân tích đề bài</div>
 
 Xác định diện tích vùng đất mà cả 3 người cùng chăm sóc. Đây là bài toán tìm **diện tích phần giao của 3 hình chữ nhật** trên mặt phẳng tọa độ $Oxy$.
 
 Vùng giao nhau của nhiều hình chữ nhật (nếu tồn tại) luôn là một hình chữ nhật mới. Một ô đất $(x, y)$ chỉ được tính nếu nó đồng thời thuộc về cả 3 hình chữ nhật.
+
+<div class="important-note">
+
+**📌 Dạng bài:** Duyệt ma trận (vét cạn) - Hình học
+</div>
 </div>
 
 <div class="step-card border-orange">

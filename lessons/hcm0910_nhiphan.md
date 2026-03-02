@@ -1,5 +1,5 @@
-## Bài: Nhị phân (Vị trí Bit 1)
-
+## 0️⃣1️⃣ Bài: Nhị phân (Vị trí Bit 1) 
+<br>
 <div class="step-card border-blue">
 <div class="step-badge bg-blue">Phân tích đề bài</div>
 
@@ -10,6 +10,11 @@ Cho số nguyên dương $N$. Yêu cầu xác định vị trí của các chữ
 **Ví dụ:** $13_{10} = 1101_2$. 
 - Các vị trí bit 1 là: $0, 2, 3$.
 - Giải thích: $13 = 1 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0$.
+
+<div class="important-note">
+
+**📌 Dạng bài:** Đổi hệ số - xử lý bit
+</div>
 </div>
 
 <div class="step-card border-orange">

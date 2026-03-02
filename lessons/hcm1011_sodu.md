@@ -1,5 +1,5 @@
-## Bài 1: Số dư
-
+## ➗ Bài 1: Số dư 
+<br>
 <div class="step-card border-blue">
 <div class="step-badge bg-blue">Phân tích đề bài</div>
 
@@ -12,6 +12,11 @@ Bài toán yêu cầu chúng ta đếm xem trong 10 số nguyên cho trước, c
 ### 3. Giải thích ví dụ:
 * Ví dụ 1: 10 số từ 1 đến 10 khi chia cho 42 sẽ cho 10 số dư lần lượt là $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$. Vì 10 số dư này hoàn toàn khác nhau, kết quả xuất ra là 10.
 * Ví dụ 2: Các số $42, 84, 252, 420, 840, 126$ đều là bội của $42$. Do đó, khi chia cho $42$, tất cả chúng đều có chung một số dư duy nhất là $0$. Vì chỉ có $1$ loại số dư xuất hiện, kết quả xuất ra là $1$.
+
+<div class="important-note">
+
+**📌 Dạng bài:** Mảng đánh dấu - chia lấy dư
+</div>
 </div>
 
 <div class="step-card border-orange">

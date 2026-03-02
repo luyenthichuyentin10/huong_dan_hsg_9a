@@ -1,5 +1,5 @@
-## Bài: Tổng (Phân tích số thành các số hạng khác nhau)
-
+## ➕ Bài: Tổng (Phân tích số thành các số hạng khác nhau) 
+<br>
 <div class="step-card border-blue">
 <div class="step-badge bg-blue">Phân tích đề bài</div>
 
@@ -11,6 +11,11 @@ Tính số cách phân tích một số nguyên dương $N$ thành tổng của 
 - Cách 3: $4 + 2$
 - Cách 4: $3 + 2 + 1$
 Tổng cộng có **4** cách. (Kết quả cần chia lấy dư cho $10^9 + 7$).
+
+<div class="important-note">
+
+**📌 Dạng bài:** Quy hoạch động trên ma trận dạng bài toán đếm
+</div>
 </div>
 
 <div class="step-card border-orange">
